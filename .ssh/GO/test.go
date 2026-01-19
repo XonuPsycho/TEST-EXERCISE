@@ -1,3 +1,4 @@
+// Егай Андрей 
 package main
 
 import "fmt"
